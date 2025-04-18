@@ -3,7 +3,7 @@
 ## 📝 Introduction
 
 - **Presenter:** Syed Zaidi
-- **Contact:** s.zaidi313@gmail.com
+- **Contact:** szaidi@umd.edu
 - **Date:** April 24, 2024
 
 ## 🔍 Project Overview
