@@ -3,7 +3,7 @@
 ## 📝 Introduction
 
 - **Presenter:** Syed Zaidi
-- **Contact:** szaidi@umd.edu
+- **Contact:** s.zaidi313@gmail.com
 - **Date:** April 24, 2024
 
 ## 🔍 Project Overview
@@ -63,6 +63,9 @@
 | Simplified navigation | Difficult to navigate for cheapest options | Easier navigation, increased efficiency |
 | Made challenges more accessible | Challenges complicated, not intuitive | Increased engagement, clearer features |
 | Improved map view | Some users rely on maps, need better design | Enhanced map usability for relevant users |
+
+## 📚 Presentation Materials
+- **Presentation Video:** Watch the design process overview at: https://youtu.be/j4mNj9T68sg
 
 ## 📊 Evaluation
 
