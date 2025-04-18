@@ -66,6 +66,7 @@
 
 ## 📚 Presentation Materials
 - **Presentation Video:** Watch the design process overview at: https://youtu.be/j4mNj9T68sg
+- **Project Files:** Files Link: https://drive.google.com/drive/folders/1LlF5vSi87F4GTie20UyxWcschXJQ2kuf?usp=drive_link
 
 ## 📊 Evaluation
 
